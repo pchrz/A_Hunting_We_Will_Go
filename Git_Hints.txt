@@ -1,0 +1,23 @@
+<b>Git Hints</b>
+
+To make your start easier I compiled a list of git commands that I've been using to create this repo.
+
+//First I create the repo locally.
+git init
+
+//I then move the files into staging
+git add .
+
+//I commit them to my local repository.
+git commit -m "Initial Commit"
+
+//Now I need to add them to the remote repository
+remote add origin https://github.com/pchrz/A_Hunting_We_Will_Go.git
+
+//Confirm remote repo connection
+git remote -v
+
+//Push changes to remote repository
+git push origin master
+
+<i> I will add process to branch and merge song info. I will test it first with an alternate github account. </i>
