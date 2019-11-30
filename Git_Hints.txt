@@ -1,4 +1,4 @@
-<b>Git Hints</b>
+	//Git Hints
 
 To make your start easier I compiled a list of git commands that I've been using to create this repo.
 
@@ -20,4 +20,5 @@ git remote -v
 //Push changes to remote repository
 git push origin master
 
-<i> I will add process to branch and merge song info. I will test it first with an alternate github account. </i>
+
+	I will add process to branch and merge song info. I will test it first with an alternate github account. 
